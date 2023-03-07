@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "109908259887",
+    "firebase_url": "https://inlabactivity-7285f-default-rtdb.firebaseio.com",
+    "project_id": "inlabactivity-7285f",
+    "storage_bucket": "inlabactivity-7285f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109908259887:android:b4a0fe0b79abcb09f9c2da",
+        "android_client_info": {
+          "package_name": "com.example.flutter_in_lab_activity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109908259887-38u741upr0d9h71q3f506q8ehejnrjj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFWphoUeGiXFO6UweLdpIiRmKqk_J17Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109908259887-38u741upr0d9h71q3f506q8ehejnrjj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

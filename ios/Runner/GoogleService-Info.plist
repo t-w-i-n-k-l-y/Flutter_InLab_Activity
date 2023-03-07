@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>109908259887-4ijaijfmoauemv1tr0phm00i66b9ikmv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.109908259887-4ijaijfmoauemv1tr0phm00i66b9ikmv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZlEhevjrucmb9tDfXhKOl_9woTUP5eE0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>109908259887</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterInLabActivity</string>
+	<key>PROJECT_ID</key>
+	<string>inlabactivity-7285f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>inlabactivity-7285f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:109908259887:ios:21008b5b65269bf9f9c2da</string>
+	<key>DATABASE_URL</key>
+	<string>https://inlabactivity-7285f-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
